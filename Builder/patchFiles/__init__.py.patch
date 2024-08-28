@@ -1,0 +1,8 @@
+--- __init__.py	2014-02-08 03:41:44.000000000 +0000
++++ __init__.py.new	2021-03-15 18:27:31.356231287 +0000
+@@ -1,4 +1,4 @@
+ from .jsonpath import *
+ from .parser import parse
+ 
+-__version__ = '1.3.0'
++__version__ = '1.4.0'
